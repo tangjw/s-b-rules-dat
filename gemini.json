@@ -1,27 +1,24 @@
 {
-    "version": 1,
-    "rules": [
-        {
-            "domain": [
-                "ai.google.dev",
-                "alkalimakersuite-pa.clients6.google.com",
-                "makersuite.google.com",
-                "colab.research.google.com",
-                "gemini.google.com",
-                "proactivebackend-pa.googleapis.com",
-                "proactivebackend-pa.googleapis.com",
-                "apis.google.com"
-            ],
-            "domain_suffix": [
-                "bard.google.com",
-                "deepmind.com",
-                "deepmind.google",
-                "generativeai.google"
-            ],
-            "domain_keyword": [
-                "developerprofiles",
-                "generativelanguage"
-            ]
-        }
-    ]
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "ai.google.dev",
+        "alkalimakersuite-pa.clients6.google.com",
+        "makersuite.google.com",
+        "colab.research.google.com",
+        "gemini.google.com",
+        "proactivebackend-pa.googleapis.com",
+        "proactivebackend-pa.googleapis.com",
+        "apis.google.com"
+      ],
+      "domain_suffix": [
+        "bard.google.com",
+        "deepmind.com",
+        "deepmind.google",
+        "generativeai.google"
+      ],
+      "domain_keyword": ["developerprofiles", "generativelanguage"]
+    }
+  ]
 }

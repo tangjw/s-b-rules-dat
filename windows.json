@@ -1,0 +1,15 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": ["dns.msftncsi.com", "www.msftconnecttest.com"],
+      "domain_suffix": [
+        "live.com",
+        "microsoft.com",
+        "windows.com",
+        "windowsupdate.com"
+      ],
+      "domain_keyword": ["windows", "microsoft"]
+    }
+  ]
+}
