@@ -1,0 +1,36 @@
+{
+  "version": 1,
+  "rules": [
+    {
+      "domain": [
+        "dl.google.com",
+        "dns.msftncsi.com",
+        "www.msftconnecttest.com",
+        "cn.live.com",
+        "fpt.live.com",
+        "logincdn.msauth.net"
+      ],
+      "domain_suffix": [
+        "msftncsi.com",
+        "msftconnecttest.com",
+        ".cn",
+        "apple.com",
+        "cdn-apple.com",
+        "icloud.com",
+        "icloud.com.cn",
+        "epicgamescdn.com",
+        "akamai",
+        "steamcontent.com",
+        "steamserver.net",
+        "hotmail.com",
+        "microsoft.com",
+        "microsoftonline.com",
+        "windows.com",
+        "windowsupdate.com",
+        "ugcpfgmf.com",
+        "timemate.top"
+      ],
+      "domain_keyword": ["microsoft","windows","bkh0","bkk0"]
+    }
+  ]
+}
