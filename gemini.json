@@ -10,7 +10,8 @@
         "gemini.google.com",
         "proactivebackend-pa.googleapis.com",
         "proactivebackend-pa.googleapis.com",
-        "apis.google.com"
+        "apis.google.com",
+        "aicode.googleapis.com"
       ],
       "domain_suffix": [
         "bard.google.com",
