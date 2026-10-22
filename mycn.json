@@ -8,7 +8,9 @@
         "www.msftconnecttest.com",
         "cn.live.com",
         "fpt.live.com",
-        "logincdn.msauth.net"
+        "logincdn.msauth.net",
+        "cdn.jsdelivr.net",
+        "dns.cmfro.com"
       ],
       "domain_suffix": [
         "msftncsi.com",
